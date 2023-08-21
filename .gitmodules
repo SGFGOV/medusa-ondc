@@ -1,0 +1,3 @@
+[submodule "external dependencies/ondc-seller-app"]
+	path = external dependencies/ondc-seller-app
+	url = https://github.com/SGFGOV/ondc-seller-app.git
